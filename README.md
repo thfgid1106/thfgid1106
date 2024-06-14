@@ -2,8 +2,8 @@
 
 ## 💡Contacts
 - ✉️ Email : thfgid1106@gmail.com
-- 📕 Notion : https://www.notion.so/HanSol-Choi-a4425e4659e440b7b50e784febb0cb2a?pvs=4
-- 📚 Blog : [https://velog.io/@hansssssol](https://velog.io/@hansssssol/posts)
+- 📕 Notion : https://giddy-bait-a77.notion.site/HanSol-Choi-a4425e4659e440b7b50e784febb0cb2a?pvs=4
+- 📚 Blog : https://velog.io/@hansssssol
 
 ## 👩‍💼Career
 (주) Conoon (2021.06 ~ 2023.12)
