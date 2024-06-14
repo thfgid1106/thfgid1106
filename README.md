@@ -1,7 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDB6&height=230&section=header&text=ChoiHanSol&fontColor=FFFFFF&fontSize=80)
 ## Hi there 👋
-
-<!--
-**thfgid1106/thfgid1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
