@@ -17,6 +17,13 @@
     - Cognex In-Sight Explorer를 사용한 Vision 검사 Tool 수정
     - Cognex Deep Learning & Vision Pro를 이용한 이미지 학습 및 검증
 
+## 🛠️Stacks
+### Language
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
+### AI Skills
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=black"> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=black"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> 
+### Collaboration
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 
----------------------------------------------------------------------------
-추가 예정
+### Contacts
+<a href="https://giddy-bait-a77.notion.site/HanSol-Choi-a4425e4659e440b7b50e784febb0cb2a?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <a href="https://velog.io/@hansssssol"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
