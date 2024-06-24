@@ -26,4 +26,5 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 
 ### Contacts
-<a href="https://giddy-bait-a77.notion.site/HanSol-Choi-a4425e4659e440b7b50e784febb0cb2a?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <a href="https://velog.io/@hansssssol"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+<a href="mailto:thfgid1106@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> <a href="https://giddy-bait-a77.notion.site/HanSol-Choi-a4425e4659e440b7b50e784febb0cb2a?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <a href="https://velog.io/@hansssssol"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+
