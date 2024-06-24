@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=AADAB6&height=230&section=header&text=ChoiHanSol&fontColor=FFFFFF&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=AADAB6&height=230&section=header&text=HanSolChoi&fontColor=FFFFFF&fontSize=80)
 
 ## 💡Contacts
 - ✉️ Email : thfgid1106@gmail.com
