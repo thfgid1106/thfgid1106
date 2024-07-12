@@ -1,0 +1,12 @@
+names:
+- fish
+- jellyfish
+- penguin
+- puffin
+- shark
+- starfish
+- stingray
+nc: 7
+test: C:\Users\USER\Desktop\HS\GitHub\YOLO_examples\Aquarium_test\Aquarium\test\images
+train: C:\Users\USER\Desktop\HS\GitHub\YOLO_examples\Aquarium_test\Aquarium\train\images
+val: C:\Users\USER\Desktop\HS\GitHub\YOLO_examples\Aquarium_test\Aquarium\valid\images
