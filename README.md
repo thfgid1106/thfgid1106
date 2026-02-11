@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=475570&height=230&section=header&text=HanSol Choi&fontColor=FFFFFF&fontSize=80&rotate=15&stroke=000000&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=slice&color=475570&height=230&section=header&text=HanSol&Choi&fontColor=FFFFFF&fontSize=80&rotate=15&stroke=000000&strokeWidth=2)
 
 ## 💡Contacts
 - ✉️ Email : thfgid1106@gmail.com
